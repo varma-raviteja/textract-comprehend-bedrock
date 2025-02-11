@@ -1,0 +1,1 @@
+# textract-comprehend-bedrock
